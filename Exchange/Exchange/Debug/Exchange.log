@@ -1,0 +1,8 @@
+﻿  源.c
+d:\github\exchange\exchange\源.c(10): warning C4047: “=”:“int *”与“int”的间接级别不同
+d:\github\exchange\exchange\源.c(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\github\exchange\exchange\源.c(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\github\exchange\exchange\源.c(8): warning C4047: “初始化”:“int”与“int *”的间接级别不同
+d:\github\exchange\exchange\源.c(23): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+d:\github\exchange\exchange\源.c(24): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  Exchange.vcxproj -> D:\github\Exchange\Debug\Exchange.exe

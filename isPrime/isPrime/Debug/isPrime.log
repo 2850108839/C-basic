@@ -1,0 +1,3 @@
+﻿  源.c
+d:\github\isprime\isprime\源.c(17): warning C4716: “isPrime”: 必须返回一个值
+  isPrime.vcxproj -> D:\github\isPrime\Debug\isPrime.exe
