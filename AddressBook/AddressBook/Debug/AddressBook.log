@@ -1,0 +1,4 @@
+﻿  AddressBook.c
+d:\github\addressbook\addressbook\addressbook.c(125): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+  d:\github\addressbook\addressbook\addressbook.c(125): note: 请考虑在格式字符串中使用“%hhd”
+  AddressBook.vcxproj -> D:\github\AddressBook\Debug\AddressBook.exe
